@@ -10,9 +10,9 @@ Usage
 
 To use 1 or more extension apps for Faxe, you must have a file prepared which is reachable by Faxe.
 
-###Example
+### Example
 
-    ext.conf
+    ext.config
 
 with the contents
 
